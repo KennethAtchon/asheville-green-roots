@@ -34,10 +34,10 @@ const WhyChooseUs = () => {
         <div className="text-center mb-16">
           <h2 className="section-header fade-in">
             Why Asheville Homeowners Choose{" "}
-            <span className="text-primary">Evergreen</span>
+            <span className="text-primary">EvergreenLT</span>
           </h2>
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto leading-relaxed fade-in delay-100">
-            When you choose Evergreen Outdoor Solutions, you're choosing a team that's committed to excellence, reliability, and transforming your outdoor vision into reality.
+            When you choose EvergreenLT Outdoor Solutions, you're choosing a team that's committed to excellence, reliability, and transforming your outdoor vision into reality.
           </p>
         </div>
 

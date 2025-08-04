@@ -6,7 +6,7 @@ const Testimonials = () => {
       name: "Marcia L.",
       location: "West Asheville",
       rating: 5,
-      text: "We finally enjoy spending time outside thanks to Evergreen! They transformed our neglected backyard into a beautiful oasis. The team was professional, punctual, and the results exceeded our expectations.",
+      text: "We finally enjoy spending time outside thanks to EvergreenLT! They transformed our neglected backyard into a beautiful oasis. The team was professional, punctual, and the results exceeded our expectations.",
       project: "Complete Backyard Makeover"
     },
     {
@@ -27,7 +27,7 @@ const Testimonials = () => {
       name: "Jennifer M.",
       location: "Downtown Asheville",
       rating: 5,
-      text: "Evergreen solved our drainage issues and created the most beautiful garden. They really know the local climate and what plants thrive here in the mountains.",
+      text: "EvergreenLT solved our drainage issues and created the most beautiful garden. They really know the local climate and what plants thrive here in the mountains.",
       project: "Garden Design & Drainage"
     },
     {
@@ -54,7 +54,7 @@ const Testimonials = () => {
             What <span className="text-primary">Asheville Families</span> Are Saying
           </h2>
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto leading-relaxed fade-in delay-100">
-            Don't just take our word for it. Here's what our satisfied customers have to say about their experience with Evergreen Outdoor Solutions.
+            Don't just take our word for it. Here's what our satisfied customers have to say about their experience with EvergreenLT Outdoor Solutions.
           </p>
         </div>
 
@@ -131,7 +131,7 @@ const Testimonials = () => {
                 Ready to Join Our Happy Customers?
               </h3>
               <p className="text-muted-foreground mb-6">
-                Experience the Evergreen difference for yourself. Get your free consultation today.
+                Experience the EvergreenLT difference for yourself. Get your free consultation today.
               </p>
               <button 
                 onClick={() => {

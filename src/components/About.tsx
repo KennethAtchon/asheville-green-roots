@@ -14,7 +14,7 @@ const About = () => {
                 <span className="text-primary">Over 10 Years</span>
               </h2>
               <p className="text-lg text-muted-foreground leading-relaxed fade-in delay-100">
-                Evergreen Outdoor Solutions has been transforming yards in Asheville for over 10 years. We're a team of passionate landscapers who believe outdoor spaces should be functional, beautiful, and built to last.
+                EvergreenLT Outdoor Solutions has been transforming yards in Asheville for over 10 years. We're a team of passionate landscapers who believe outdoor spaces should be functional, beautiful, and built to last.
               </p>
               <p className="text-lg text-muted-foreground leading-relaxed fade-in delay-200">
                 Locally owned and operated, we know the North Carolina terrain like the back of our rakes. From the clay soils to the mountain climate, we understand what it takes to create landscapes that thrive in our unique environment.
@@ -78,7 +78,7 @@ const About = () => {
             <div className="relative rounded-2xl overflow-hidden shadow-elegant">
               <img 
                 src={teamPhoto}
-                alt="Evergreen Outdoor Solutions team with landscaping tools in front of completed yard project in Asheville, NC"
+                alt="EvergreenLT Outdoor Solutions team with landscaping tools in front of completed yard project in Asheville, NC"
                 className="w-full h-auto object-cover"
               />
               <div className="absolute inset-0 bg-gradient-to-t from-primary/20 via-transparent to-transparent"></div>

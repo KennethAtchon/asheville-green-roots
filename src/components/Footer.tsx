@@ -21,7 +21,7 @@ const Footer = () => {
                 <Leaf className="w-6 h-6 text-primary-foreground" />
               </div>
               <div>
-                <h3 className="text-2xl font-bold">Evergreen</h3>
+                <h3 className="text-2xl font-bold">EvergreenLT</h3>
                 <p className="text-background/80 -mt-1">Outdoor Solutions</p>
               </div>
             </div>
@@ -37,7 +37,7 @@ const Footer = () => {
               </div>
               <div className="flex items-center space-x-3">
                 <Mail className="w-5 h-5 text-primary" />
-                <span className="text-background">hello@evergreenoutdoors.com</span>
+                <span className="text-background">hello@evergreenltoutdoors.com</span>
               </div>
               <div className="flex items-center space-x-3">
                 <MapPin className="w-5 h-5 text-primary" />
@@ -100,7 +100,7 @@ const Footer = () => {
         <div className="border-t border-background/20 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="text-background/80 text-sm">
-              © {currentYear} Evergreen Outdoor Solutions. All rights reserved.
+              © {currentYear} EvergreenLT Outdoor Solutions. All rights reserved.
             </div>
             
             <div className="flex items-center space-x-6 text-sm text-background/80">

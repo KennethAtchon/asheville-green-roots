@@ -46,7 +46,7 @@ const Contact = () => {
             Get Your <span className="text-primary">Free Quote</span> Today
           </h2>
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto leading-relaxed fade-in delay-100">
-            Ready to transform your outdoor space? Contact Evergreen Outdoor Solutions for a free consultation and personalized quote. We're here to bring your landscaping vision to life.
+            Ready to transform your outdoor space? Contact EvergreenLT Outdoor Solutions for a free consultation and personalized quote. We're here to bring your landscaping vision to life.
           </p>
         </div>
 
@@ -171,7 +171,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h4 className="font-semibold text-foreground mb-1">Email Us</h4>
-                    <p className="text-lg font-medium text-accent">hello@evergreenoutdoors.com</p>
+                    <p className="text-lg font-medium text-accent">hello@evergreenltoutdoors.com</p>
                     <p className="text-sm text-muted-foreground">We respond within 24 hours</p>
                   </div>
                 </div>

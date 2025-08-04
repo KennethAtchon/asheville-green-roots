@@ -43,7 +43,7 @@ const Header = () => {
                 <span className="text-primary-foreground font-bold text-lg">E</span>
               </div>
               <div className="hidden md:block">
-                <h1 className="text-xl font-bold text-foreground">Evergreen</h1>
+                <h1 className="text-xl font-bold text-foreground">EvergreenLT</h1>
                 <p className="text-sm text-muted-foreground -mt-1">Outdoor Solutions</p>
               </div>
             </div>

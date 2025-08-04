@@ -47,7 +47,7 @@ const Hero = () => {
 
           {/* Subheading */}
           <p className="text-lg md:text-xl text-muted-foreground mb-8 max-w-2xl leading-relaxed fade-in delay-200">
-            From stunning garden makeovers to reliable lawn care, Evergreen Outdoor Solutions delivers beauty, function, and curb appeal—right in your backyard.
+            From stunning garden makeovers to reliable lawn care, EvergreenLT Outdoor Solutions delivers beauty, function, and curb appeal—right in your backyard.
           </p>
 
           {/* Trust Indicators */}
